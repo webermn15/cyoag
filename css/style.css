@@ -1,0 +1,18 @@
+#dancegalf {
+	display: none;
+	margin: 50px auto 0 auto;
+}
+#thanksforplaying {
+	width: 600px;
+	display: none;
+	background-color: lightseagreen;
+	font-size: 48px;
+	margin: 0 auto;
+	color: white;
+	text-align: center;
+}
+#createdby {
+	display: none;
+	margin: 0 auto;
+	text-align: center;
+}
